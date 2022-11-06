@@ -1,0 +1,15 @@
+.loginContainer{
+      width: 60%;
+     margin: auto;
+}
+.loginText{
+    font-size:larger;
+    color: #3C2317;
+}
+.formInputDiv input {
+    height: 40px;
+    
+}
+.loginButton{
+    height: 50px;
+}

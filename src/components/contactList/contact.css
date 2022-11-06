@@ -1,0 +1,32 @@
+.contactContainer {
+     width: 100%;
+     font-family: Arial, Helvetica, sans-serif;
+}
+.scrollContainer {
+    height: 400px;
+    overflow: scroll;
+    overflow-x: hidden;
+    
+}
+.flexDiv{
+    display: flex;
+    justify-content: space-between;
+    padding: 2%;
+   
+    /* border: 1px solid black; */
+}
+img {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+}
+.contactName {
+    font-size: medium;
+    margin-top: 5%;
+    margin-left: 5%;
+    color: rgb(73, 73, 73);
+}
+.firstLetter{
+    margin-top: 4%;
+    color: #E14D2A;
+}
